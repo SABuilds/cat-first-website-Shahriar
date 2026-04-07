@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(216, 166, 245);
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#paragraph-one {
+  font-family: monospace;
+}
+
+.poem {
+  text-align: center;
+  color: rgb(3, 44, 252);
+  font-family: cursive;
+}
